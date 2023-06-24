@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Logan-Xu
-- 👀 I’m interested in Front-end and Back-end web development technologies.
-- 🌱 I’m currently learning Javascript, Python, etc.
-- 💞️ I’m looking for a job in the IT industry.
+- 👀 I’m interested in Back-end and Database development technologies.
+- 🌱 I’m currently working as a software engineer.
+- 💞️ I’m seeking for new opportunities in the IT industry.
 - 📫 My email address is: xlingao@gmail.com. My mobile number is: +61424866605
 
 <!---
